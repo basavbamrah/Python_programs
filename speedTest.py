@@ -1,4 +1,4 @@
-from speedtest import Speedtest
+from speedtest import Speedtest                                                             # pip install speedtest-cli
 
 tst = Speedtest()
 
